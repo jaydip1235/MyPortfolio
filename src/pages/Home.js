@@ -77,7 +77,7 @@ function Home() {
               </p>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 mt-2 mb-2">
             <div>
               <img
                 src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300"

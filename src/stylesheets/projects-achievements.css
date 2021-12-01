@@ -103,6 +103,17 @@
     font-weight: bold !important;
 }
 
+@media(max-width:750px){
+    .why-jd:hover{
+        transform:scale(1.2);
+        background-color:#EBECF0 !important;
+        background: #EBECF0  !important;
+        box-shadow: 5px 5px 0px #cacbce, -5px -5px 0px #ffffff !important;
+        color: black;
+        font-weight: bold !important;
+    }
+}
+
 .why-jd:hover > h1{
     display: none;
 }
