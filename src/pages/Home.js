@@ -67,7 +67,6 @@ function Home() {
           <div className="col-md-4">
             <div className="n-box2 p-5 font-bold" data-aos="fade-right">
               <h2>About myself</h2>
-              <br />
               <p>
                 An aspiring Software Development Engineer with the ability to
                 solve problems and think outside the box. I am enthusiastic
