@@ -95,8 +95,8 @@ function Home() {
                 My hobbies include listening to music,reading articles, playing
                 piano and exploring new tune in it. Moreover I also love to take
                 part in various technical and non-technical events and love to
-                interact with people to have to share knowledge, thoughts and
-                ideas.
+                interact with people to share knowledge, thoughts and  ideas
+                with them.
               </p>
             </div>
           </div>
