@@ -13,10 +13,10 @@ function Home() {
         style={{ backgroundImage: `url('./introbg.svg')` }}
       >
         <div>
-          <h1 data-aos="fade-up">JAYDIP DEY</h1>
+          <h1 data-aos="fade-up" className="ms-2">JAYDIP DEY</h1>
 
           <div className="intro-content d-flex justify-content-between">
-            <p>
+            <p className="ms-2">
               JUCSE'23 <br /> Incoming SDE Intern @Optum 2022
             </p>
 
