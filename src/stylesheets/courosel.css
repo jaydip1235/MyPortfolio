@@ -15,15 +15,15 @@
     animation: gallery 20s linear infinite;
 }
 
-.gallery:hover{
+/* .gallery:hover{
     animation-play-state: paused;
-}
-.gallery:hover svg{
+} */
+/* .gallery:hover svg{
     opacity: 0.2;
 }
 .gallery:hover img{
     opacity: 0.2;
-}
+} */
 
 
 .gallery span{

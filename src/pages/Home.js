@@ -50,7 +50,7 @@ function Home() {
           <div className="why-jd-content">
             <p>&#10627;</p>
 
-            <p>"name" : "Jaydip Dey"</p>
+            <p>"Name" : "Jaydip Dey"</p>
 
             <p>"College" : "Jadavpur University"</p>
 
