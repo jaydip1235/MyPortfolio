@@ -1,4 +1,18 @@
 const achievementslist = [
+  {
+    title: "Girlscript",
+    image: "https://i.postimg.cc/vmYNdVP9/gshack.png",
+
+    link: "https://drive.google.com/file/d/1ZGLA7TczOZbtdQfYaQCVrJ38Ax1B4Gzw/view?usp=sharing",
+  },
+  {
+    title: "Tech-A-Thlon",
+    image:
+      "https://i.postimg.cc/6qXHY4Gy/tec.png",
+
+    link: "https://drive.google.com/file/d/15JUCe4LN8_m7MQHB6MeSbfhBNn4jyxxn/view?usp=sharing",
+  },
+
     {
       title: "Source Code",
       image:
@@ -25,19 +39,6 @@ const achievementslist = [
         "https://i.postimg.cc/52kR4scM/elecc.png",
   
       link: "https://drive.google.com/file/d/1u7d1GMaajCdukZS1uLPc-PN8KjrPvvum/view?usp=sharing",
-    },
-    {
-      title: "Mathistics",
-      image: "https://i.postimg.cc/d0Y4tpWp/mathiss.png",
-  
-      link: "https://drive.google.com/file/d/1hXDliN_aop0k4oMH0YDMBv5aCbdLsMzT/view?usp=sharing",
-    },
-    {
-      title: "LOR",
-      image:
-        "https://i.postimg.cc/bJN0Z27f/ipslor.png",
-  
-      link: "https://drive.google.com/file/d/13s6ZJswgyQPefwgpocjZdcRY9Pjaz7dY/view?usp=sharing",
     },
   ];
   
