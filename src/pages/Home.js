@@ -22,7 +22,7 @@ function Home() {
 
             <button className="primary-button font-bold">
               <a
-                href="https://pdfhost.io/v/3WmdqASst_JaydipDeyResume"
+                href="https://pdfhost.io/v/2H3EU0n7U_JaydipDeyResume"
                 target="_blank"
               >
                 Resume
