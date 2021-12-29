@@ -1,4 +1,11 @@
 const projectsdata = [
+  {
+    title: "Alpha",
+    image: "https://raw.githubusercontent.com/jaydip1235/hack4women/master/client/public/images/screenshots/home.png",
+    description:
+      " It was built to connect the gynaecologist ,physiologist and the people who have expertise in those fields, to the pregnant women, who are dealing with mental depression",
+    link: "https://github.com/jaydip1235/hack4women",
+  },
     {
       title: "Medi Board",
       image: "https://camo.githubusercontent.com/d3a6b3a119bac71674107cfa35738da2360ea9f050668f229eafeb95333f6207/68747470733a2f2f692e706f7374696d672e63632f77543333377758442f686f6d652e706e67",
@@ -13,13 +20,7 @@ const projectsdata = [
         "A website for developers where they can post their works, update profile and connect to other developers accross the globe",
       link: "https://github.com/jaydip1235/Dev-room",
     },
-    {
-      title: "Alpha",
-      image: "https://i.postimg.cc/tgQqJrQv/spider.png",
-      description:
-        "A frontend website for gaming enthusiat which contains two games and sports music",
-      link: "https://github.com/jaydip1235/SPIDER_2021",
-    },
+    
     {
       title: "Twitter Clone",
       image: "https://camo.githubusercontent.com/2cbfde8832c5e579bcc8b3fa631a186252d5d68a7fc03596e525cf9ce00dccf9/68747470733a2f2f692e706f7374696d672e63632f33723446795431502f506f7075702d6e6f74696669636174696f6e732e706e67",

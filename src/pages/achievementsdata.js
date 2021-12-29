@@ -1,9 +1,9 @@
 const achievementslist = [
   {
     title: "Girlscript",
-    image: "https://i.postimg.cc/vmYNdVP9/gshack.png",
+    image: "https://i.postimg.cc/Y0Vy6RRw/hack4wpng.png",
 
-    link: "https://drive.google.com/file/d/1ZGLA7TczOZbtdQfYaQCVrJ38Ax1B4Gzw/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1ETu4ZWDmR3B801AueYrcY3u7NE_SYgim/view?usp=sharing",
   },
   {
     title: "Tech-A-Thlon",
